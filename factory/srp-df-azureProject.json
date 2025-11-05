@@ -1,0 +1,9 @@
+{
+	"name": "srp-df-azureProject",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "12037522-2976-407c-b7f0-08389daca486",
+		"tenantId": "edc2f104-b548-45d4-b89b-1be88cf63907"
+	}
+}
